@@ -1,0 +1,13 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {section}{\textbf {A CASA}}{6}
+\contentsline {section}{O CANTO}{11}
+\contentsline {section}{A PARTIDA}{24}
+\contentsline {section}{O LIVRO}{26}
+\contentsline {section}{\textbf {AS ASAS DE SATURNO}}{45}
+\contentsline {section}{MARGARIDA}{54}
+\contentsline {section}{\textbf {A VOZ}}{58}
+\contentsline {section}{FÉRIAS DE NATAL}{84}
+\contentsline {section}{PORQUE O TEMPO}{105}
+\contentsline {section}{\textbf {TEMPUS FUGIT}}{114}
+\contentsfinish 
