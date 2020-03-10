@@ -2,12 +2,12 @@
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{A casa}{9}
 \contentsline {chapter}{O canto}{14}
-\contentsline {chapter}{A partida}{27}
-\contentsline {chapter}{O livro}{29}
-\contentsline {chapter}{As asas de Saturno}{48}
-\contentsline {chapter}{Margarida}{58}
-\contentsline {chapter}{A voz}{61}
-\contentsline {chapter}{Férias de Natal}{87}
-\contentsline {chapter}{Porque o tempo}{109}
-\contentsline {chapter}{Tempus fugit}{118}
+\contentsline {chapter}{A partida}{26}
+\contentsline {chapter}{O livro}{27}
+\contentsline {chapter}{As asas de Saturno}{46}
+\contentsline {chapter}{Margarida}{55}
+\contentsline {chapter}{A voz}{58}
+\contentsline {chapter}{Férias de Natal}{82}
+\contentsline {chapter}{Porque o tempo}{103}
+\contentsline {chapter}{Tempus fugit}{111}
 \contentsfinish 

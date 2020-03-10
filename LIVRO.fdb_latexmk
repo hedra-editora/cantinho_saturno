@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1583863109 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1583863120
+["lualatex"] 1583876763 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1583876769
   "/etc/texmf/tex/generic/config/language.dat" 1510784374 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1556209800 330551 d12977d7bdbdf3a8c84dfb9092c3ccea ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1556209801 287951 05a753757cb80cdd1665c6086d8a0543 ""
@@ -229,36 +229,36 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1510784347 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1510784348 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1516130248 1350732 045cf0d50c464bdae2d15bcdf369a573 ""
-  "INPUTS.aux" 1583863119 2357 e8ac3d2b9b0bc8312b3f918f619683cc ""
+  "INPUTS.aux" 1583876769 2357 e129243f522b6d4b0c8531154acf0ab7 ""
   "INPUTS.tex" 1583520569 24 d8ee45f348663a179b290b45f861a52d ""
-  "LIVRO.aux" 1583863119 540 41c11717e518e6d870e4a3eea72589f9 ""
-  "LIVRO.ind" 1583777555 0 d41d8cd98f00b204e9800998ecf8427e "makeindex LIVRO.idx"
-  "LIVRO.tex" 1583783486 1291 cca9985199c43737b20ca3913c06a9ee ""
-  "LIVRO.toc" 1583863119 494 7f217e1ea03e56f6ebd7013e335e7edf ""
-  "ORIGINAIS.tex" 1583789825 288648 23b90287ae31de583f1e40c0d50c5358 ""
-  "PUBLICIDADE.aux" 1583863119 1778 7a5db1119065c52eeb690ab818bd1df4 ""
+  "LIVRO.aux" 1583876769 540 ea29303065aa35ab5ae55a01ce18a2e3 ""
+  "LIVRO.ind" 1583867740 0 d41d8cd98f00b204e9800998ecf8427e "makeindex LIVRO.idx"
+  "LIVRO.tex" 1583866761 1291 cca9985199c43737b20ca3913c06a9ee ""
+  "LIVRO.toc" 1583876769 494 71cef08fb739e0565e3fdc0707ebf4e5 ""
+  "ORIGINAIS.tex" 1583876759 291169 fbf4a5a8def47c1bc687608fb24e55a9 ""
+  "PUBLICIDADE.aux" 1583876769 1778 6eab15a343e032eb9912a26d1ecd10bf ""
   "fichatecnica.sty" 1583521839 2273 43e507bc7c15cfd7b62d757a2bcbab9d ""
   "fronthedra.tex" 1583778477 3081 baf45cb9b8b288cbef404243d292afac ""
   "gitrevisioninfo.sty" 1580932740 35 48c993f5a6d90aaae1febd5c16f55fff ""
-  "hedraoptions.sty" 1553009361 3587 4921a4004769cd949b2610eb895fb728 ""
-  "persons.ind" 1583777555 0 d41d8cd98f00b204e9800998ecf8427e "makeindex persons.idx"
+  "hedraoptions.sty" 1583873418 3596 74a96143a66956e34597e8ca5bcec976 ""
+  "persons.ind" 1583867740 0 d41d8cd98f00b204e9800998ecf8427e "makeindex persons.idx"
   "tipografia.sty" 1563793981 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
-  "LIVRO.pdf"
-  "PUBLICIDADE.aux"
   "INPUTS.aux"
-  "LIVRO.idx"
-  "persons.idx"
-  "LIVRO.toc"
+  "LIVRO.pdf"
   "LIVRO.aux"
   "LIVRO.log"
-["makeindex LIVRO.idx"] 1583777555 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1583863120
-  "LIVRO.idx" 1583863114 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "LIVRO.toc"
+  "LIVRO.idx"
+  "persons.idx"
+  "PUBLICIDADE.aux"
+["makeindex LIVRO.idx"] 1583867740 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1583876769
+  "LIVRO.idx" 1583876765 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "LIVRO.ilg"
   "LIVRO.ind"
-["makeindex persons.idx"] 1583777555 "persons.idx" "persons.ind" "persons" 1583863120
-  "persons.idx" 1583863114 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "LIVRO.ilg"
+["makeindex persons.idx"] 1583867740 "persons.idx" "persons.ind" "persons" 1583876769
+  "persons.idx" 1583876765 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "persons.ind"
   "persons.ilg"
+  "persons.ind"
