@@ -292,6 +292,10 @@ INPUT /home/editorial-luca/texmf/tex/versos.sty
 INPUT /home/editorial-luca/texmf/tex/versos.sty
 INPUT ./gitrevisioninfo.sty
 INPUT ./gitrevisioninfo.sty
+INPUT /home/editorial-luca/.texlive2019/texmf-var/luatex-cache/generic/fonts/otl/utopia-std.luc
+INPUT /home/editorial-luca/.texlive2019/texmf-var/luatex-cache/generic/fonts/otl/utopia-std-bold-display-italic.luc
+INPUT /home/editorial-luca/.texlive2019/texmf-var/luatex-cache/generic/fonts/otl/utopia-std-bold.luc
+INPUT /home/editorial-luca/.texlive2019/texmf-var/luatex-cache/generic/fonts/otl/utopia-std-italic.luc
 INPUT /usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
