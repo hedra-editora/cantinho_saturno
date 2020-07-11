@@ -1,5 +1,6 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
+<<<<<<< HEAD
 \contentsline {chapter}{A casa}{9}
 \contentsline {chapter}{O canto}{14}
 \contentsline {chapter}{A partida}{26}
@@ -10,4 +11,16 @@
 \contentsline {chapter}{Férias de Natal}{83}
 \contentsline {chapter}{Porque o tempo}{104}
 \contentsline {chapter}{Tempus fugit}{112}
+=======
+\contentsline {chapter}{A casa}{9}% 
+\contentsline {chapter}{O canto}{14}% 
+\contentsline {chapter}{A partida}{27}% 
+\contentsline {chapter}{O livro}{28}% 
+\contentsline {chapter}{As asas de Saturno}{47}% 
+\contentsline {chapter}{Margarida}{57}% 
+\contentsline {chapter}{A voz}{60}% 
+\contentsline {chapter}{Férias de Natal}{86}% 
+\contentsline {chapter}{Porque o tempo}{107}% 
+\contentsline {chapter}{Tempus fugit}{116}% 
+>>>>>>> d02116925feb592f5f2a61cc60cf53654f223567
 \contentsfinish 
