@@ -1,13 +1,13 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{A casa}{9}% 
-\contentsline {chapter}{O canto}{14}% 
-\contentsline {chapter}{A partida}{26}% 
-\contentsline {chapter}{O livro}{28}% 
-\contentsline {chapter}{As asas de Saturno}{46}% 
-\contentsline {chapter}{Margarida}{55}% 
-\contentsline {chapter}{A voz}{59}% 
-\contentsline {chapter}{Férias de Natal}{83}% 
-\contentsline {chapter}{Porque o tempo}{104}% 
-\contentsline {chapter}{Tempus fugit}{112}% 
+\contentsline {chapter}{A casa}{9}
+\contentsline {chapter}{O canto}{14}
+\contentsline {chapter}{A partida}{26}
+\contentsline {chapter}{O livro}{28}
+\contentsline {chapter}{As asas de Saturno}{46}
+\contentsline {chapter}{Margarida}{55}
+\contentsline {chapter}{A voz}{59}
+\contentsline {chapter}{Férias de Natal}{83}
+\contentsline {chapter}{Porque o tempo}{104}
+\contentsline {chapter}{Tempus fugit}{112}
 \contentsfinish 
